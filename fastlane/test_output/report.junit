@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='NumeroTests.xctest' tests='3' failures='0'>
+  <testsuite name='NumeroTests.ConverterTests' tests='3' failures='0'>
+    <testcase classname='NumeroTests.ConverterTests' name='testConversionForOne' time='0.002'/>
+    <testcase classname='NumeroTests.ConverterTests' name='testConversionForThree' time='0.000'/>
+    <testcase classname='NumeroTests.ConverterTests' name='testConversionForTwo' time='0.000'/>
+  </testsuite>
+</testsuites>
